@@ -1,0 +1,1 @@
+This is interesting type of Hello world. Instead of being a program it is just a text file.
